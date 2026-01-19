@@ -1,6 +1,6 @@
 # hrishikeshkulkarni
 
-Senior Data Scientist | Production ML & GenAI Systems on Azure
+Data Scientist | Production ML & GenAI Systems on Azure
 
 I work on building data science and machine learning solutions that are reliable,
 scalable, and maintainable in real production environments.
