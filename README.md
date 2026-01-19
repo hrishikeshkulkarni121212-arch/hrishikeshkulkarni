@@ -1,4 +1,4 @@
-# hrishikeshkulkarni
+# HrishikeshKulkarni
 
 Data Scientist | Production ML & GenAI Systems on Azure
 
